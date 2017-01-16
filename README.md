@@ -2,7 +2,7 @@
 CocoaPods 私有仓库
 
 
-## 使用
+### 使用
 在项目中的Profile中添加源，即添加如下代码
 ```
 source 'https://github.com/ChanRoy/CHTPod.git'
